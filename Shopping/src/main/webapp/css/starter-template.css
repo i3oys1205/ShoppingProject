@@ -1,0 +1,15 @@
+body {
+	padding-top: 50px;
+}
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+.table thead th{
+	text-align: center;
+}
+
+.background-cloud{
+background-image: url("http://www.weatherplanet.co.kr/images/common/bg/bg_sky_a03.jpg");
+}
